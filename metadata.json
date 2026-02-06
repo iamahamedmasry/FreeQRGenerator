@@ -1,0 +1,7 @@
+{
+  "name": "Smart QR Studio",
+  "description": "A modern, branded QR code generator and high-speed scanner with custom logos and styling options.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
