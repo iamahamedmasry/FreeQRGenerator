@@ -1,3 +1,5 @@
+![ezgif-78922f822388200b](https://github.com/user-attachments/assets/53396025-616b-4c69-b57d-eec897485356)![ezgif-73b9d982be33dafe](https://github.com/user-attachments/assets/5ca4b2e3-5f6e-423a-b36a-ea127bc202cc)
+
 # 🚀 FreeQRGenerator
 
 **FreeQRGenerator** is an open-source QR Code Generator & Scanner with branding support, customization tools, download options, and a fully responsive design.
@@ -10,9 +12,11 @@ Generate beautiful, branded QR codes in seconds — and scan them instantly.
 
 ### 🔗 Step 1: Open the Website
 
-Click the project URL.
+Click the project URL: https://freeqr-generator.netlify.app/
 
 You will be redirected to the **FreeQRGenerator website homepage**.
+
+<img width="1541" height="898" alt="Screenshot 2026-02-15 022159" src="https://github.com/user-attachments/assets/d25e3ba8-8626-42de-9ecf-13839bc5084a" />
 
 ---
 
@@ -22,7 +26,9 @@ You will be redirected to the **FreeQRGenerator website homepage**.
 
 - In the **Destination** field, you will see a default URL (Google).
 - You can:
-  - Delete the default Google URL.
+  - Delete the default Google URL. 
+ ![ezgif-7ce1dd04392958f2](https://github.com/user-attachments/assets/d06859b2-1c14-4e19-ad1f-4f6b80c8f9ac)
+
   - Add your own URL (website, YouTube, Facebook, Instagram, payment link, etc.).
 
 ✅ Any valid URL is supported.
@@ -36,6 +42,7 @@ You will be redirected to the **FreeQRGenerator website homepage**.
 - Each pattern updates in real time.
 
 🎨 This helps you create unique and visually attractive QR codes.
+![ezgif-7e9354b23a595d47](https://github.com/user-attachments/assets/32fa83a9-e591-481a-9f66-55118969dbbb)
 
 ---
 
@@ -54,9 +61,11 @@ If you want custom branding:
 - Upload your own logo or image
 - The image will appear inside your QR code
 
-🖼 Perfect for businesses and personal branding.
+ Perfect for businesses and personal branding.
+![ezgif-73683b4621c2a8f7](https://github.com/user-attachments/assets/3798ef00-52e2-4690-b540-68587bbd1080)
 
 ---
+
 
 ### 4️⃣ Choose Color Palette
 
@@ -67,6 +76,8 @@ If you want custom branding:
   - Frame color (if available)
 
 🎨 Create branded, stylish QR codes that match your theme.
+
+![ezgif-7af371693d0addf5](https://github.com/user-attachments/assets/eb7a6d02-b22d-4a7e-8ba6-6ae5e719e95f)
 
 ---
 
@@ -82,9 +93,13 @@ You can download your QR code in:
 
 📥 Click your preferred format and save the image.
 
+![ezgif-797eeaa39b2a5ac2](https://github.com/user-attachments/assets/154d68ad-473c-4f0c-a069-00399f9b8d41)
+
 ---
 
 # 📷 How to Use the QR Scanner
+
+![ezgif-78922f822388200b](https://github.com/user-attachments/assets/00d1ec1e-4ce5-401b-9f76-fa0df2bcdd1e)
 
 ### 🔍 Step 1: Go to Scanner Page
 
@@ -141,25 +156,6 @@ This project is licensed under the **MIT License**.
 
 ### MIT License
 
-Copyright (c) 2026 FreeQRGenerator
-
-Permission is hereby granted, free of charge, to any person obtaining a copy  
-of this software and associated documentation files (the "Software"), to deal  
-in the Software without restriction, including without limitation the rights  
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
-copies of the Software, and to permit persons to whom the Software is  
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all  
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR  
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,  
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE  
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER  
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE  
-SOFTWARE.
 
 ---
 
